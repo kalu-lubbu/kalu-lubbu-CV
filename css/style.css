@@ -1,0 +1,29 @@
+body {
+    background-color: #A1EEBD;
+  }
+  h1{
+    color:#6313e2;
+    font-style: oblique;
+  }
+ 
+  
+  hr{
+    background-color: white;
+    border-style: dotted none none;
+    height: 2px;
+    width:100%
+ 
+  }
+ 
+  em{
+    font-style: italic;
+    font-size: small;
+  }
+  img:hover{
+    background-color: gold;
+
+  }
+  #heading{
+    font-style:oblique;
+
+  }
